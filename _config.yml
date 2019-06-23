@@ -16,7 +16,7 @@
 lang: zh_CN
 title: willliam task
 email:
-description:"my personal pages"
+description: "my personal pages"
 baseurl: "/jekyll-theme-basically-basic"# the optional subpath of your site, e.g. "/blog"
 url: "https://gitee.com/william159"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
