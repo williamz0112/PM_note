@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于一个SB的自我修养
+title: 走向sb的第一步
 categories:
      - 课堂笔记
 ---
