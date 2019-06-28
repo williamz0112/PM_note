@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 别人的网页缩小时内容的显示方式会有变化？别羡慕！你也可以
+title: 搭建网站必备——HTML元素
 categories:
      - 网站设计
 ---
