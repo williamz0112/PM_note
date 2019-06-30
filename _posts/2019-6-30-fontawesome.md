@@ -1,7 +1,7 @@
 ---
 title: 小小图标，大大作用
 categories:
-     - svg
+     - svg制作
 tags:
      - svg
 ---
