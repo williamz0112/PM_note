@@ -53,14 +53,12 @@ categories:
     </rect>
 </svg>
 ```
+
 <svg xmlns="http://www.w3.org/2000/svg" width="300px" height="200px">
     <rect x="30" y="80" width="20" height="34" fill="pink" stroke="black" stroke-width="1" transform="rotation">
         <animateTransform attributeType="XML" attributeName="transform" begin="0s" dur="2s" type="rotate" from="20 60 60" to="360 100 60" repeatCount="indefinite" />
     </rect>
 </svg>
-</svg>
-
----
 
 ### animateMotion
 
@@ -95,8 +93,6 @@ categories:
         <animateMotion path="M 250,80 H 50 Q 30,80 30,50 Q 30,20 50,20 H 250 Q 280,20,280,50 Q 280,80,250,80Z" dur="1s" repeatCount="indefinite" rotate="auto">
     </rect>
 </svg>
-
----
 
 * 小小的animate元素，却能完成如此多的svg动画效果，这也太棒了吧！
 * 如果想要是实现更多的动画效果还是需要我们自己多多查阅资料，多多练习，熟练掌握，才能给我们的网页增添色彩。
