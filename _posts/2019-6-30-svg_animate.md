@@ -1,10 +1,8 @@
 ---
+layout: page
 title: 多种皮皮svg汹涌来袭，准备好接招——animate元素
-date: 2019-06-23
 categories:
      - svg制作
-tags:
-  - svg
 ---
 
 * 随着网络技术的发展，动画中占主流的已不再是SMIL动画，而是CSS动画和Web动画。
