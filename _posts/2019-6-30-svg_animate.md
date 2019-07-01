@@ -5,7 +5,6 @@ categories:
      - svg制作
 tags:
   - svg
-
 ---
 
 * 随着网络技术的发展，动画中占主流的已不再是SMIL动画，而是CSS动画和Web动画。
