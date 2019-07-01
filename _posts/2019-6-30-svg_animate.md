@@ -70,6 +70,7 @@ categories:
 
 * 在这篇文章里的第一个动画中，小球从左到右重复着这个动画，却不会在碰到右侧边界后原路返回，有点机械。
 * 但其实不难做到，只需要添加**Linear motion**元素 ，就像下面这样：
+
 ```
 <svg xmlns="http://www.w3.org/2000/svg" width="300px" height="100px">
     <rect x="0" y="0" width="300" height="100" fill="yellow" stroke-width="1" stroke="red" />
